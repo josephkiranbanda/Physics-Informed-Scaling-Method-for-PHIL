@@ -6,7 +6,7 @@ submitted to:
 
   - IEEE Open Journal of Industry Applications
 
-on November 2022.
+on August 2023.
 
 The data is organized into the following folders:
 
